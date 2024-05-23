@@ -1,0 +1,2 @@
+LIO-SAM-6AXIS:rviz_satellite
+-DCATKIN_DEVEL_PREFIX=/home/g/workspace/LIO_SAM_6AXIS_noted/devel -DCMAKE_INSTALL_PREFIX=/home/g/workspace/LIO_SAM_6AXIS_noted/install -G Unix Makefiles
